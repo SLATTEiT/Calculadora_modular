@@ -1,18 +1,18 @@
-# Archivos y carpetas que no se deben subir al repositorio
 
-# Carpetas de entorno virtual
+
+
 venv/
 .env/
 
-# Archivos temporales de Python
+
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Configuración de PyCharm
+
 .idea/
 
-# Archivos del sistema
+
 .DS_Store
 Thumbs.db
